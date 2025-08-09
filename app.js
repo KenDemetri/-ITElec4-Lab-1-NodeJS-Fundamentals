@@ -1,7 +1,7 @@
 const { hasPassingGrade } = require('./utils.js');
 
-const studentName = "Ken Demetri B. Payo"; // Your full name
-const grades = [88, 93, 89, 94, 85]; // Sample grades
+const studentName = "Ken Demetri B. Payo";
+const grades = [88, 93, 89, 94, 85]; 
 const studentDetails = {
     major: "Information Technology",
     year: 4
